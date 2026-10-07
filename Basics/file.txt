@@ -1,0 +1,4 @@
+name - haider
+age - 34
+class- g
+loc - delhi line added in the last via append  line added in the last via append 
