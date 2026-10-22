@@ -58,3 +58,13 @@ int main(){
  ```python
  print("hello world")
 ```
+
+
+```javascript
+function addtwo(num) {
+    return num + 2;
+}
+function getupper(val) {
+    return val.toUpperCase();
+}
+```
