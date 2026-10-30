@@ -2,7 +2,7 @@
 # lists is mutbale
 # lists_name=[] syntax
 # what we can put inside  the lists string, number , boolean or anything
-names=["haider", "Imam", "hello", 57]
+names=["haider", "imam", "hello", 57]
 
 print(names)
 print(names[1])
@@ -10,7 +10,7 @@ print(names[1])
 # if we put negative we can acccess from the last 
 # so simply if i said names[-1]
 print(names[-1])
-# it will print imam
+# it will print 57
 
 
 # we can also specify range to print

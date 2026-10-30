@@ -10,6 +10,8 @@ dictionary_name={
 dictionary_name["age"]=76
 print(dictionary_name)
 print(dictionary_name["age"])
+# dictionary_name.age=44
+# print(dictionary_name.age)
 
 # some funcitons
 # get() it can find the value of this key and we can pass a default value if value is not find 

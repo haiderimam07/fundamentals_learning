@@ -1,0 +1,15 @@
+{
+    "sqltools.connections": [
+        {
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "chaicode_sql_connection",
+            "database": "chaicode_db",
+            "username": "postgres",
+            "password": "postgres"
+        }
+    ]
+}
