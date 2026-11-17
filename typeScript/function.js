@@ -34,3 +34,10 @@ function hanldeError(msg) {
     throw new Error(msg);
 }
 export {};
+
+console.log(order);
+let order = 'masala chai';
+console.log(typeof neverDeclared);
+
+console.log(typeof rider);
+let rider = 'Ravi';
